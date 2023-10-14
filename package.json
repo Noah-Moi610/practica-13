@@ -1,0 +1,16 @@
+{
+  "name": "practica-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy --pathprefix=/amerpractica-13/"
+  },
+  "keywords": [],
+  "author": "Noah-Moi610 <https://github.com/Noah-Moi610>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

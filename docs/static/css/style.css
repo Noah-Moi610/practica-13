@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: #222;
+  color: #ffffff;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+a {
+  color: rgb(135, 80, 223);
+  font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Pixelify Sans', sans-serif;
+}
+
+a:hover {
+  opacity: 0.8;
+}
