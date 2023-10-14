@@ -5,5 +5,12 @@
 - Carrera: Ciberseguridad
 - Materia: Programación 1
 - Profesor: Jonathan Mircha
+
+   ![JonMircha](/practica-13/src/static/img/jonmircha.jpg)
 - Alumnos: 
    - Noé Moisés Galindo Leal
+   
+   ![Moi](/practica-13/src/static/img/Yo.jpg)
+
+
+## [Enlace a página]()
