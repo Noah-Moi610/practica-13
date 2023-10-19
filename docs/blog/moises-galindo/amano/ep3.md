@@ -1,7 +1,7 @@
 ---
 layout: layout-base.njk
 title: Tipos de protección de los Escoltas y su diferencia con los Guardaespaldas
-tags: trabajo-rich
+tags: escoltas
 ---
 
 # ¿Qué tipos de protección pueden proporcionar los escoltas de protección ejecutiva?

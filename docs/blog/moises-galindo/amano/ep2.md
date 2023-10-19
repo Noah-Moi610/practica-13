@@ -1,7 +1,7 @@
 ---
 layout: layout-base.njk
 title: ¿Cómo ser escolta de protección ejecutiva y qué cualidades se necesitan?
-tags: trabajo-rich
+tags: escoltas
 ---
 
 # ¿Cómo se convierte uno en escolta de protección ejecutiva?

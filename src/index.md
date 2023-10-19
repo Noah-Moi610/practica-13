@@ -31,20 +31,12 @@ title: Universidad Amerike
 
     {% endfor %}
 
-    ### Categoría películas
+- Ricardo Amano
 
-    {% for pelicula in collections.peliculas %}
+    {% for trabajo-rich in collections.trabajo-rich %}
 
-    - [{{pelicula.data.title}}]({{ pelicula.url | url }})
+    - [{{trabajo-rich.data.title}}]({{ trabajo-rich.url | url }})
 
     {% endfor %}
 
-# Ricardo Andrés Amano Arias
-
-## Práctica 12
-
-[Enlace a GH-Pages](https://ricardoaamano.github.io/practica-12-11ty/)
-
-[Entrada 1 del Blog de Amano](../amano/ep1.md)
-[Entrada 2 del Blog de Amano](../amano/ep2.md)
-[Entrada 3 del Blog de Amano](../amano/ep3.md)
+- [Enlace a GH-Pages](https://ricardoaamano.github.io/practica-12-11ty/)

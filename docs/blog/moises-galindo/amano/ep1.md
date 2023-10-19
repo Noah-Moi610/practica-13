@@ -1,7 +1,7 @@
 ---
 layout: layout-base.njk
 title: Los Escoltas de Protección Ejecutiva y su función
-tags: trabajo-rich
+tags: escoltas
 ---
 
 # ¿Qué son los escoltas de protección ejecutiva?
