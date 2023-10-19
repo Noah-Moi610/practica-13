@@ -7,6 +7,7 @@
 - Profesor: Jonathan Mircha
 - Alumnos: 
    - Noé Moisés Galindo Leal
+   - Ricardo Andrés Amano Arias
    
 
 
