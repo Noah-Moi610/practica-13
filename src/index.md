@@ -39,4 +39,12 @@ title: Universidad Amerike
 
     {% endfor %}
 
+# Ricardo Andrés Amano Arias
 
+## Práctica 12
+
+[Enlace a GH-Pages](https://ricardoaamano.github.io/practica-12-11ty/)
+
+[Entrada 1 del Blog de Amano](../amano/ep1.md)
+[Entrada 2 del Blog de Amano](../amano/ep2.md)
+[Entrada 3 del Blog de Amano](../amano/ep3.md)
